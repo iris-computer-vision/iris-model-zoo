@@ -193,11 +193,11 @@ IRIS is structured as a lifecycle for understanding and deploying computer visio
 
 - **IRIS Benchmark**  
   Structured evaluation and comparison  
-  → [Benchmarks(https://github.com/iris-computer-vision/iris-benchmark)]
+  → [[Benchmarks](https://github.com/iris-computer-vision/iris-benchmark)]
 
 - **IRIS Experiments**  
   Experiment lineage and model evolution  
-  → [Experiments(https://github.com/iris-computer-vision/iris-experiments/)]
+  → [[Experiments](https://github.com/iris-computer-vision/iris-experiments/)]
 
 ---
 
