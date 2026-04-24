@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="assets/iris-model-zoo-hero.png" width="100%" />
+  <img src="assets/iris-model-zoo-hero.PNG" width="100%" />
 </p>
 
 ---
