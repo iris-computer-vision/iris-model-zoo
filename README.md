@@ -94,15 +94,8 @@ IRIS Model Zoo focuses on:
     <td><strong>IRIS-Drone-YOLOv8s</strong></td>
     <td>Drone Detection (EO)</td>
     <td>YOLOv8s</td>
-    <td>Edge-optimized</td>
-    <td><a href="#">View</a></td>
-  </tr>
-  <tr>
-    <td><strong>IRIS-Drone-RTDETR-L</strong></td>
-    <td>Drone Detection (EO)</td>
-    <td>RT-DETR Large</td>
-    <td>High-recall</td>
-    <td><a href="#">View</a></td>
+    <td>Baseline (Benchmark Artifact)</td>
+    <td><a href="https://huggingface.co/IRIS-Computer-Vision/YOLOv8s_EO_Drone_Detection" target="_blank">View Model</a></td>
   </tr>
 </table>
 
